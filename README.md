@@ -7,7 +7,7 @@ The solution includes use of linear regression and it is based upon simple linea
 
 ##Steps involved in making project
 &nbsp;
-Step 1 - Reading the data from source
+Step 1 - Reading the data from source<br>
 Step 2 - Input data Visualization
 Step 3 - Data Preprocessing
 Step 4 - Model Training
